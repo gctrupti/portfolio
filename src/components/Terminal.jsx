@@ -7,7 +7,7 @@ export default function Terminal() {
     "G C Trupti – Web Developer & AI Enthusiast",
     "",
     "> stack",
-    "React | Node.js | Django | Tailwind | MongoDB | Python",
+    "React | Node.js  | Tailwind | MongoDB | Python",
     "",
     "> currently_building",
     "AI powered applications, secure search systems, and modern web platforms",
