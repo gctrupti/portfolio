@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+  scroll-behavior: smooth;
+}
+
+.skill-pill {
+  @apply bg-[#111827] text-gray-300 px-3 py-1 rounded-md text-sm;
+}
